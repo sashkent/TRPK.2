@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TRPK.2/1.0.0": {
+        "dependencies": {
+          "LogDLL": "1.0.0"
+        },
+        "runtime": {
+          "TRPK.2.dll": {}
+        }
+      },
+      "LogDLL/1.0.0": {
+        "runtime": {
+          "LogDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRPK.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
